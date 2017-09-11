@@ -71,7 +71,7 @@ softfactory -------------- 项目名(工程名)
 
 
 
-作业:
+作业:测试更新
  src/main/webapp/db/
   商品管理初始化脚本_ora.sql
 
