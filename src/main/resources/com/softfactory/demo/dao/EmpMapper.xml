@@ -20,6 +20,7 @@
 		<!-- N:1 关联部门信息 -->
 		<association property="dept" column="DEPTNO" javaType="com.softfactory.pojo.Dept"
       resultMap="dept-result" />
+
 	</resultMap>
 
 	<sql id="pageSQLHead">

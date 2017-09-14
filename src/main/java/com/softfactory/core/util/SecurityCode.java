@@ -22,7 +22,7 @@ public class SecurityCode {
 	 * @return String 验证码
 	 */
 	public static String getSecurityCode() {
-		return getSecurityCode(6, SecurityCodeLevel.Medium, false);
+		return getSecurityCode(4, SecurityCodeLevel.Medium, false);
 	}
 
 	/**
